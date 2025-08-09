@@ -41,9 +41,9 @@ Every morning, the **AI Tech News Agent**:
 ## 🖼 Screenshots  
 
 ### Workflow in n8n  
-![Workflow Screenshot](images/workflow.png)  
+![Workflow Screenshot](workflow.png)  
 
 ### Example Email  
-![Email Screenshot](images/email.png)  
+![Email Screenshot](email.png)  
 
 ---
