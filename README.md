@@ -36,9 +36,9 @@ Every morning, the **AI Tech News Agent**:
 - Types of systems: Single-agent vs. Multi-agent  
 - Guardrails: Purpose and importance
 
-- ---
+---
 
-## 🖼 Screenshots  
+## Screenshots  
 
 ### Workflow in n8n  
 ![Workflow Screenshot](workflow.png)  
